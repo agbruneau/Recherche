@@ -1,4 +1,4 @@
-# Base de Connaissances : Informatique, Entreprise Agentique & IA Avancée
+# Cursus Informatique, Entreprise Agentique & Jarvis
 
 Bienvenue dans ce dépôt central, un hub de connaissances exhaustif dédié à l'ingénierie informatique moderne, à l'architecture d'entreprise de nouvelle génération et à la recherche fondamentale en intelligence artificielle.
 
